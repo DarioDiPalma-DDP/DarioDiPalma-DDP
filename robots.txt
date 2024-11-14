@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://DarioDiPalma-DDP.github.io/sitemap.xml
+Sitemap: https://DarioDiPalma-DDP.github.io/DarioDiPalma-DDP/sitemap.xml
